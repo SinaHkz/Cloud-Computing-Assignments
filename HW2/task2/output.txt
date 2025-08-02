@@ -1,0 +1,20 @@
+
+Initial Global Average: 41.5468
+--- Round 1 ---
+client1 updated average: 38.4661
+client2 updated average: 42.0802
+client3 updated average: 44.9797
+Global Average after Round 1: 42.1111
+
+--- Round 2 ---
+client1 updated average: 38.5865
+client2 updated average: 42.6685
+client3 updated average: 44.3791
+Global Average after Round 2: 41.4664
+
+--- Round 3 ---
+client1 updated average: 37.2381
+client2 updated average: 41.3851
+client3 updated average: 44.9858
+Global Average after Round 3: 41.5806
+

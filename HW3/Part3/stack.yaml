@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  to-uppercase:
+    lang: python3-http
+    handler: ./to-uppercase
+    image: sinahkz/to-uppercase:latest
+    annotations:
+      com.openfaas.pull: "false"

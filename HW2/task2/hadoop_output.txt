@@ -1,0 +1,6 @@
+client1	2197.6	58
+client2	2338.2999999999993	56
+client3	2568.6	57
+
+
+Wrong from the fixed bug :)
